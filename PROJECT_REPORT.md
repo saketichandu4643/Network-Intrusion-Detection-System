@@ -1,11 +1,9 @@
 # Network Intrusion Detection System
 ## Project Report
 
-**Student name:** [Enter your name]  
-**Institution:** [Enter institution name]  
-**Department:** [Enter department]  
-**Project guide:** [Enter guide name]  
-**Academic year:** [Enter academic year]
+**Student name:** [SAKETI CHANDRA SEKHAR]  
+**Institution:** [RAGHU]  
+**Department:** [CYBER SECURITY]  
 
 ## Abstract
 The Network Intrusion Detection System (NIDS) is an educational cybersecurity prototype that examines summarized network-flow records and identifies activity that may deserve investigation. The system uses transparent, configurable rules for patterns such as repeated failed connections, unusual destination ports, and unusually large data transfers. It writes a report in CSV format so that a learner or analyst can review flagged records. The prototype demonstrates the basic workflow of log ingestion, rule evaluation, alert generation, and reporting.
