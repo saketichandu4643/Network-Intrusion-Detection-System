@@ -1,0 +1,7 @@
+{
+  "failed_connections_threshold": 10,
+  "bytes_out_threshold": 10000000,
+  "bytes_in_threshold": 50000000,
+  "suspicious_ports": [23, 2323, 4444, 5555, 6667, 31337],
+  "private_source_to_public_admin_ports": [22, 3389, 5900]
+}
